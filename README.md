@@ -4,20 +4,8 @@
 
 Hey, I'm **K A R A N**, a **frontend developer** who is actively learning **full stack development**. I love building **clean, modern websites and apps** where design, functionality, and even the smallest details matter. My focus is on making products that are both **Scalable and visually satisfying.**
 
-### 🌐 Connect with me
-[Resume](https://karan-kappa.vercel.app) • [GitHub](https://github.com/karan-kappa) • [LinkedIn](https://linkedin.com/in/karan-kappa) • [Instagram](https://instagram.com/karan-kappa)
-
----
-
-### 🎓 Education
-
-**Master of Computer Application (MCA) - Pursuing (2026-2028)**
-Postgraduate Student - Maharshi Dayanand University (MDU) / Aggarwal College - Haryana, India
-- Enrolled in 2-year postgrad MCA program, advancing mastery in Full-Stack Architectures, modern frontend frameworks (React, Next.js), and backend API engineering
-- Specializing in Cloud Computing, microservices, scalable distributed systems
-- Designing real-world full-stack apps with real-time features, secure auth, and production-grade UI
-
-**Bachelor of Computer Application (BCA) - Graduated (2023-2026)**
+> PORTFOLIO
+(https://instagram.com/karan-kappa)
 
 ---
 
