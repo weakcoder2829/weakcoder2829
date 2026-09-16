@@ -42,5 +42,3 @@ Hey, I'm **K A R A N**, a **frontend developer** who is actively learning **full
 
 ---
 
-- ⚡ Fun fact: ...
--->
