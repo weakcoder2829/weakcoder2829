@@ -5,7 +5,7 @@
 Hey, I'm **K A R A N**, a **frontend developer** who is actively learning **full stack development**. I love building **clean, modern websites and apps** where design, functionality, and even the smallest details matter. My focus is on making products that are both **Scalable and visually satisfying.**
 
 > PORTFOLIO
-(https://instagram.com/karan-kappa)
+https://karan-kappa.vercel.app/
 
 ---
 
